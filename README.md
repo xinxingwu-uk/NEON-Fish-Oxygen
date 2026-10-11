@@ -75,8 +75,6 @@ The pilot selects up to four recent eligible fish-data months for each of three 
 
 **Important scientific caveat:** the archived richness calculation counts distinct taxon groups from individual-fish and bulk-count records. Zero-count bulk rows may contribute taxa to that quantity. A non-modifying diagnostic is now generated as `tables/zero_count_taxon_audit.csv`; if any such rows occur, analyze strictly positive captures in an explicitly versioned follow-up, rather than quietly changing the archived figures.
 
-Read [Methods and limitations](docs/METHODS_AND_LIMITATIONS.md) before interpreting the figures or copying results into a grant narrative. For a proposed grant citation and publication steps, see the [GitHub publishing guide](docs/GITHUB_PUBLISHING_GUIDE.md).
-
 ## Reuse and citation
 
 Code is offered under the **MIT License** (subject to the repository owner's approval before publication). NEON data are **not** included in this ZIP: request them from the original provider and use the provider's stated citation and license. This repository's `CITATION.cff` supplies a citation format for the code only.

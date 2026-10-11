@@ -33,8 +33,5 @@ The baseline aggregates each individually processed fish as 1 and bulk-capture c
 
 The GitHub-cleaned edition preserves this legacy definition for transparency and adds a **diagnostic report** (`zero_count_taxon_audit.csv`) with no impact on the saved numbers. Before making biological conclusions or preparing a manuscript, check the diagnostic and, where necessary, undertake an explicitly labeled corrected analysis based on positive captures and protocol-consistent survey effort.
 
-## Grant-safe preliminary-results language
-
+---
 > An initial NEON pilot connected fish-survey events to quality-screened, high-frequency dissolved oxygen measurements at three stream sites. Seven of twelve captured-fish events satisfied the predefined completeness requirement for 30-day pre-survey oxygen windows. At the BLUE site, 717 of 720 preceding hourly medians were available (99.6% coverage), with concentrations ranging from 7.37 to 11.18 mg/L and exhibiting pronounced temporal variation. No hourly median fell below the exploratory 5 mg/L reference within the seven matched 30-day windows. These results demonstrate the technical feasibility of linking biological surveys to continuous oxygen measurements, while highlighting the need to expand site-year coverage, evaluate sampling comparability, and distinguish oxygen variability from location-related differences before testing ecological relationships.
-
-This paragraph deliberately makes **no statistical significance, causation, or predictive-performance claim**.

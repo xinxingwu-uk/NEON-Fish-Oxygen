@@ -52,7 +52,7 @@ Results are created in `./kas_neon_fish_pilot/` outside Colab. The downloaded ra
 ## Project structure
 
 ```text
-KAS-NEON-Fish-Oxygen/
+NEON-Fish-Oxygen/
 ├── notebooks/
 │   └── KAS_NEON_Fish_Oxygen_Pilot.ipynb    # standalone Colab analysis
 ├── scripts/
@@ -60,10 +60,7 @@ KAS-NEON-Fish-Oxygen/
 ├── figures/                              # archived, real pilot figures
 ├── docs/
 │   ├── PILOT_FINDINGS.md                 # recorded findings and provenance
-│   ├── METHODS_AND_LIMITATIONS.md       # methods, scope and scientific cautions
-│   ├── UNDERGRADUATE_GUIDE.md           # undergraduate research tasks
-│   ├── REPRODUCIBILITY.md               # re-running and change log
-│   └── GITHUB_PUBLISHING_GUIDE.md       # safe GitHub publishing steps
+│   └── UNDERGRADUATE_GUIDE.md           # undergraduate research tasks
 ├── tests/
 │   └── test_offline_smoke.py             # no-network validation
 ├── requirements.txt

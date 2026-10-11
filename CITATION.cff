@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the software and the original NEON data products."
+title: "Beyond Mean Dissolved Oxygen: NEON Fish–Oxygen Preliminary Pilot"
+type: software
+authors:
+  - family-names: Wu
+    given-names: Xinxing
+    affiliation: Kentucky State University
+version: 0.1.0
+license: MIT
+keywords:
+  - freshwater ecology
+  - dissolved oxygen
+  - NEON
+  - undergraduate research
+  - reproducible research

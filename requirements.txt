@@ -1,0 +1,8 @@
+# Dependencies
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+tqdm
+IPython

@@ -3,7 +3,7 @@
 
 **Research stage:** preliminary data-feasibility analysis · **Study sites:** `GUIL`, `BLUE`, `KING` · **NEON release:** `RELEASE-2026`
 
-This repository provides the code, workflow, archived figures, and scientific caveats for a pilot exploring whether **pre-survey dissolved-oxygen variability** can be quantified alongside freshwater fish-community observations. It supports the development of a Kentucky Academy of Science (KAS) Special Research Program proposal; it is **not** a record of an awarded grant or a validated ecological effect.
+This repository provides the code, workflow, archived figures, and scientific caveats for a pilot exploring whether **pre-survey dissolved-oxygen variability** can be quantified alongside freshwater fish-community observations. 
 
 [NEON fish counts](https://data.neonscience.org/data-products/DP1.20107.001) · [NEON water quality](https://data.neonscience.org/data-products/DP1.20288.001) · [Analysis Platform used Google Colab](https://colab.research.google.com/)
 

@@ -5,7 +5,7 @@
 
 This repository provides the code, workflow, archived figures, and scientific caveats for a pilot exploring whether **pre-survey dissolved-oxygen variability** can be quantified alongside freshwater fish-community observations. 
 
-[NEON fish counts](https://data.neonscience.org/data-products/DP1.20107.001) · [NEON water quality](https://data.neonscience.org/data-products/DP1.20288.001) · [Analysis Platform used Google Colab](https://colab.research.google.com/)
+[NEON fish counts](https://data.neonscience.org/data-products/DP1.20107.001) · [NEON water quality](https://data.neonscience.org/data-products/DP1.20288.001)
 
 ## Pilot results at a glance
 

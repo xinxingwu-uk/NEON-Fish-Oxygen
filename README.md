@@ -71,7 +71,7 @@ NEON-Fish-Oxygen/
 
 ## Research design and interpretation
 
-The pilot selects up to four recent eligible fish-data months for each of three *fixed* NEON sites. It joins positive-quality sensor readings to captured-fish survey events using **7-, 14-, and 30-day** pre-survey windows. To avoid silently inventing oxygen exposure, an hourly median requires ≥20 valid measurements and a window requires ≥70% hourly coverage. The code intentionally does **not** extrapolate causal effects or fit a site-held-out model when the available sample is too small.
+The pilot selects up to recent eligible fish-data months for each of three *fixed* NEON sites. It joins positive-quality sensor readings to captured-fish survey events using **7-, 14-, and 30-day** pre-survey windows. To avoid silently inventing oxygen exposure, an hourly median requires ≥20 valid measurements and a window requires ≥70% hourly coverage.
 
 **Important scientific caveat:** the archived richness calculation counts distinct taxon groups from individual-fish and bulk-count records. Zero-count bulk rows may contribute taxa to that quantity. A non-modifying diagnostic is now generated as `tables/zero_count_taxon_audit.csv`; if any such rows occur, analyze strictly positive captures in an explicitly versioned follow-up, rather than quietly changing the archived figures.
 

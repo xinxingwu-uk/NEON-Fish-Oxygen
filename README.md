@@ -47,7 +47,7 @@ python -m pip install -r requirements.txt
 python scripts/neon_fish_oxygen_pilot.py
 ```
 
-Results are created in `./kas_neon_fish_pilot/` outside Colab. The downloaded raw cache, token, and generated files are **git-ignored**.
+Results are created in `./kas_neon_fish_pilot/` outside Colab.
 
 ## Project structure
 

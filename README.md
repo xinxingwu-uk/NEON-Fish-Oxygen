@@ -73,20 +73,17 @@ NEON-Fish-Oxygen/
 
 The pilot selects up to recent eligible fish-data months for each of three *fixed* NEON sites. It joins positive-quality sensor readings to captured-fish survey events using **7-, 14-, and 30-day** pre-survey windows. To avoid silently inventing oxygen exposure, an hourly median requires ≥20 valid measurements and a window requires ≥70% hourly coverage.
 
-**Important scientific caveat:** the archived richness calculation counts distinct taxon groups from individual-fish and bulk-count records. Zero-count bulk rows may contribute taxa to that quantity. A non-modifying diagnostic is now generated as `tables/zero_count_taxon_audit.csv`; if any such rows occur, analyze strictly positive captures in an explicitly versioned follow-up, rather than quietly changing the archived figures.
 
 ## Reuse and citation
 
-Code is offered under the **MIT License** (subject to the repository owner's approval before publication). NEON data are **not** included in this ZIP: request them from the original provider and use the provider's stated citation and license. This repository's `CITATION.cff` supplies a citation format for the code only.
+Code is offered under the **MIT License** (subject to the repository owner's approval before publication). NEON data are **not** included: request them from the original provider and use the provider's stated citation and license.
 
-**NEON source products used by the original notebook:**
+**NEON source products used:**
 
 - **Fish electrofishing, gill netting, and fyke netting counts**, `DP1.20107.001` (source notebook lists DOI: [10.48443/s1e6-df79](https://doi.org/10.48443/s1e6-df79)).
 - **Water quality**, `DP1.20288.001` (source notebook lists DOI: [10.48443/15k3-aj25](https://doi.org/10.48443/15k3-aj25)).
 
 Both were requested from `RELEASE-2026`. Confirm the official release-specific attribution in the NEON portal when publishing results.
-
-**Research integrity:** Archived figures demonstrate a working data linkage and a descriptive result. They do not prove that oxygen variability determines fish richness, and they do not constitute a complete study of fish ecological responses.
 
 
 ---

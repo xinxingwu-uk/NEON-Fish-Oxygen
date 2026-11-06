@@ -65,8 +65,7 @@ NEON-Fish-Oxygen/
 │   └── test_offline_smoke.py             # no-network validation
 ├── requirements.txt
 ├── CITATION.cff
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ## Research design and interpretation

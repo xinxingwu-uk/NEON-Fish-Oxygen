@@ -33,14 +33,14 @@ These numbers summarize a **saved prior notebook run**; they have **not** been i
 
 ![Archived exploratory fish and oxygen relationships](figures/Figure_2_Richness_Oxygen.png)
 
-## Run it in Google Colab (recommended)
+## Run it in Google Colab
 
 1. Download or open [`notebooks/KAS_NEON_Fish_Oxygen_Pilot.ipynb`](notebooks/KAS_NEON_Fish_Oxygen_Pilot.ipynb) in [Google Colab](https://colab.research.google.com/). Once the repository is published, GitHub's notebook file can also be opened from the Colab interface.
 2. In NEON's [Data Portal](https://data.neonscience.org/), create or use your research account and obtain a personal **API token**. The notebook uses a hidden prompt; **never save or commit the token**.
 3. Select **Runtime → Run all**. The first code cell installs required Python packages. Check the selected site-month plan, download log, sensor choices, and missing-data coverage.
 4. Inspect the output folder `/content/kas_neon_fish_pilot/` and its generated ZIP of processed tables and new figures. Differences from archived values may reflect updated data, dependencies, site/month availability, or methodological changes.
 
-**Python script alternative** (Python 3.10+; from repository root):
+**Python script alternative** (Python 3.10+):
 
 ```bash
 python -m pip install -r requirements.txt

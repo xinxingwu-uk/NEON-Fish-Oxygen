@@ -87,3 +87,11 @@ Code is offered under the **MIT License** (subject to the repository owner's app
 Both were requested from `RELEASE-2026`. Confirm the official release-specific attribution in the NEON portal when publishing results.
 
 **Research integrity:** Archived figures demonstrate a working data linkage and a descriptive result. They do not prove that oxygen variability determines fish richness, and they do not constitute a complete study of fish ecological responses.
+
+
+---
+
+## License
+
+Distributed under the MIT license. See [``LICENSE``](https://github.com/xinxingwu-uk/NEON-Fish-Oxygen/blob/main/LICENSE) for more information.
+

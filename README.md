@@ -23,7 +23,7 @@ This repository provides the code, workflow, archived figures, and scientific ca
 
 These numbers summarize a **saved prior notebook run**; they have **not** been independently recomputed from NEON by this cleaned repository. Exploratory fish-taxon richness has not been standardized for sampling effort and may contain zero-count taxon artifacts. See [Pilot findings](docs/PILOT_FINDINGS.md) for the detailed data lineage and cautions.
 
-## Figures from the saved pilot
+## Figures from the pilot
 
 **Figure 1.** Quality-screened hourly dissolved oxygen before the BLUE fish survey. The curve shows temporal variation, not a fish-health threshold result.
 
